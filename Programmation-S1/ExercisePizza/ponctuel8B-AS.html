@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="TP1">
+    <title>ChezTony</title>
+    <link rel="stylesheet" href="styles/styles.css">
+
+    <script language="JavaScript" type="text/javascript">
+        /**
+        * Auteur: Luz Angela Sanchez Gutierrez
+        * Date: 10 Mai 2018
+        * Description: Commande pizza Chez-Tony
+        */
+        function commander() {
+
+            var errormsg = "";
+            //  message vide
+            if (pizzaform.name.value == "") {
+                errormsg = errormsg + "Votre nom absent\n";
+            }
+            if (pizzaform.phone.value == "") {
+                errormsg = errormsg + "Votre téléphone absent\n";
+            }
+            //  message soit numerique
+            if (pizzaform.phone.value < "0" || pizzaform.phone.value > "9") {
+                errormsg = errormsg + "Le téléphone il doit être numerique\n";
+            }
+            if (pizzaform.quantity.value == 0) {
+                errormsg = errormsg + "Vous devez commander au moins 1\n";
+            }
+            if (errormsg != "") {
+                alert(errormsg);
+            } else {
+
+                var totalC = 0;
+
+                //Selection de la taille de la Pizza
+                if (pizzaform.size.options[0].selected) {
+                    totalC = totalC + 10 * pizzaform.quantity.value;
+                }
+                if (pizzaform.size.options[1].selected) {
+                    totalC = totalC + 20 * pizzaform.quantity.value;
+                }
+                if (pizzaform.size.options[2].selected) {
+                    totalC = totalC + 30 * pizzaform.quantity.value;
+                }
+
+                // Selection des ingredients
+                if (pizzaform.type.options[0].selected) {
+                    totalC = totalC + 5;
+                }
+                if (pizzaform.type.options[1].selected) {
+                    totalC = totalC + 2;
+                }
+                if (pizzaform.type.options[2].selected) {
+                    totalC = totalC + 2;
+                }
+                if (pizzaform.type.options[3].selected) {
+                    totalC = totalC + 3;
+                }
+
+                totalC = totalC + extrasC;
+
+                alert("Le total de votre comande est: " + totalC + "$");
+            }
+        }
+
+        // Interdit que soit mois de 0
+        function fonctQuant() {
+            if (pizzaform.quantity.value < 0) {
+                pizzaform.quantity.value = 0;
+            }
+        }
+
+        // Case à cocher 3$ extras
+        var extrasC = 0;
+
+        function fonctExtras() {
+            if (pizzaform.extras.checked == true) {
+                extrasC = extrasC + 3;
+            } else {
+                extrasC = extrasC - 3;
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <img src="img/Pizza.jpg">
+    <form id="pizzaform">
+        <h3>Passez votre commande ici!</h3>
+        <label>Nom:</label>
+        <input type="text" id="name" placeholder="Entrez votre nom">
+        <label>Téléphone:</label>
+        <input type="text" id="phone" placeholder="Entrez votre téléphone">
+        <label> Quantité:</label>
+        <input type="number" id="quantity" onclick="fonctQuant()">
+        <label> Grandeur:</label>
+        <select id="size">
+                <option >Petite = 10$</option>
+                <option >Moyenne = 20$</option>
+                <option >Grande = 30$</option>
+        </select>
+        <label> Sorte:</label>
+        <select id="type">
+                <option >Toute garnie + 5$</option>
+                <option >Bacon + 2$</option>
+                <option >Végé + 2$</option>
+                <option >Spéciale Tony + 3$</option>
+        </select>
+        <label class="tony-check"> Une fritte et une liqueure avec ca? +3$</label>
+        <input type="checkbox" id="extras" onclick="fonctExtras()">
+        <br/>
+        <br/>
+        <input class="tony-button" type="button" id="submit" value="Commandez" onclick="commander()">
+        <br/>
+        <input class="tony-button" type="reset" id="reset" value="Recommencez">
+    </form>
+</body>
+
+</html>

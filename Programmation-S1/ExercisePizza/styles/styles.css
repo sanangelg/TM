@@ -1,0 +1,78 @@
+/* CSS reset
+   --------- */
+
+html,
+body,
+img,
+p,
+h1,
+h2,
+h3,
+ul,
+li,
+figure {
+    margin: 0;
+    padding: 0;
+}
+        
+/* règles générales
+   ---------------- */
+        
+html {
+    font-family: Arial, sans-serif;
+    background-color: #ce1501;
+}
+body {
+    width: 900px;
+    margin: 0 auto;
+    color: #555;
+    background-color: #fafafa;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}  
+form{
+    padding: 10px 30px;
+    width: auto;
+}
+form h3{
+    text-transform: uppercase;
+    font-size: 13px;
+    margin: 25px 0 15px;
+    line-height: 25px;
+    border-bottom: 4px solid #56813a;
+    color: black;
+}
+form label{
+    line-height: 25px;
+    width: 100px;
+    display: block;
+}
+::placeholder { color: #ccc; }
+
+form input, select{
+    width: 300px;
+    height: 30px;
+    color: darkgray;
+    background-color: white;
+    border: 1px solid darkgray;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+select{
+    font-size: 12px;
+    height: 35px;
+    width: 321px;
+}
+.tony-button{
+    background-color: #56813a;
+    color: white;
+    cursor: pointer;
+}
+.tony-check{
+    width: 300px;
+}

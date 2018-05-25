@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="fr">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="TP1">
+        <title>TP1 page d'accueil</title>
+        <link rel="stylesheet" href="styles/styles.css">
+
+        <script language="JavaScript" type="text/javascript">
+        /**
+        * Auteur: Luz Angela Sanchez Gutierrez
+        * Date: 10 Mai 2018
+        * Description: Commande de billets de théâtre, calculer le montant de la commande et d'afficher une confirmation de la commande
+        */
+
+            // Changement de page au clic de l'image
+            function fonctImg() {
+                window.open("https://www.mbam.qc.ca/");
+            }
+            
+            // Bouton confirmer la commande de billets
+            function traiterFormulaire() {
+                valForm = false;
+
+                // Validation de la présence des entrées
+                var msgVide = "";
+
+                if (formTheatre.PrenomLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "Prénom absent\n";
+                }
+
+                if (formTheatre.NomLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "Nom absent\n";
+                }
+
+                if (formTheatre.CiviqueLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "No civique absent\n";
+                }
+
+                // Validation numerique
+                if (formTheatre.CiviqueLu.value < "0" || formTheatre.CiviqueLu.value > "9") {
+                    valForm = true;
+                    msgVide = msgVide + "No civique: il doit être numerique\n";
+                }
+
+                if (formTheatre.RueLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "Rue absent\n";
+                }
+
+                if (formTheatre.VilleLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "Ville absent\n";
+                }
+
+                if (formTheatre.CodeLu.value == "") {
+                    valForm = true;
+                    msgVide = msgVide + "Code postal absent\n";
+                }
+
+                // Validation que l'utilisateur désire au moins 1 billet
+                if (formTheatre.AdultesLu.value == 0 && formTheatre.EnfantsLu.value == 0) {
+                    valForm = true;
+                    msgVide = msgVide + "Vous devez commander au moins 1 billet\n";
+                }
+
+                if (valForm == true) {
+                    alert(msgVide);
+                }
+
+                else {
+
+                    // Vérification de la case à cocher Paiement différé
+                    if (formTheatre.PaiementLu.checked == true) {
+                        alert("Transaction confirmée.....Une facture vous sera postée");
+                    } 
+                    else {
+                        var carteCredit = prompt("Entrez votre no de carte de crédit:");
+
+                        if (carteCredit == null) {
+                            return;
+                        }
+
+                        // Validation numerique
+                        if (carteCredit < "0" || carteCredit > "9") {
+                            alert("La carte de credit doit être numerique");
+                            return;
+                        } else {
+                            alert("Transaction confirmée.....Une facture vous sera postée á la carte: " + carteCredit);
+                        }
+                    }
+
+                    //RESET
+                    formTheatre.PrenomLu.value="";
+                    formTheatre.NomLu.value="";
+                    formTheatre.CiviqueLu.value="";
+                    formTheatre.RueLu.value="";
+                    formTheatre.VilleLu.value="";
+                    formTheatre.CodeLu.value="";
+                    formTheatre.AdultesLu.value="";
+                    formTheatre.EnfantsLu.value="";
+                    formTheatre.CourrierLu.checked = false;
+                    formTheatre.PaiementLu.checked = false;
+                    formTheatre.MontantLu.value="";
+                }
+            }
+
+
+            // SECTION NOMBRE DE BILLETS
+            var plusBilAD = 20;
+            var plusBilEN = 7.50;
+            formTheatre.MontantLu.value = 0;
+
+            /** Boutons Adults
+            * Effet d'augmenter le nombre de billets demandés
+            */
+            function PlusAd() {
+                ++formTheatre.AdultesLu.value
+                formTheatre.MontantLu.value = parseFloat(plusBilAD * formTheatre.AdultesLu.value + plusBilEN * formTheatre.EnfantsLu.value);
+            }
+
+            // Effet de diminuer le nombre de billets demandés
+            function MoinsAd() {
+                if (formTheatre.AdultesLu.value > 0) {
+                    formTheatre.AdultesLu.value = --formTheatre.AdultesLu.value;
+                    formTheatre.MontantLu.value = parseFloat(plusBilAD * formTheatre.AdultesLu.value + plusBilEN * formTheatre.EnfantsLu.value);
+                }
+            }
+
+            /** Boutons d'enfants
+            * Effet d'augmenter le nombre de billets demandés
+            */
+            function PlusEn() {
+                ++formTheatre.EnfantsLu.value
+                formTheatre.MontantLu.value = parseFloat(plusBilAD * formTheatre.AdultesLu.value + plusBilEN * formTheatre.EnfantsLu.value);
+            }
+
+            // Effet de diminuer le nombre de billets demandés
+            function MoinsEn() {
+                if (formTheatre.EnfantsLu.value > 0) {
+                    formTheatre.EnfantsLu.value = --formTheatre.EnfantsLu.value;
+                    formTheatre.MontantLu.value = parseFloat(plusBilAD * formTheatre.AdultesLu.value + plusBilEN * formTheatre.EnfantsLu.value);
+                }
+            }
+
+            /** SECTION NOMBRE DE BILLETS
+            * Courrier recommandé
+            */
+            function fonctCourrier() {
+                if (formTheatre.CourrierLu.checked == true) {
+                    formTheatre.MontantLu.value = parseFloat(formTheatre.MontantLu.value) + 5;
+                }
+
+                if (formTheatre.CourrierLu.checked == false) {
+                    formTheatre.MontantLu.value = parseFloat(formTheatre.MontantLu.value) - 5;
+                }
+            }
+        </script>
+    </head>
+
+    <body>
+        <img src="img/autisme.jpg" width="960" onclick="fonctImg()">
+        <form id="formTheatre">
+            <h3>Identification</h3>
+            <label>Prénom:</label>
+            <input type="text" id="PrenomLu" placeholder="Entrez votre prénom">
+            <br/>
+            <label>Nom:</label>
+            <input type="text" id="NomLu" placeholder="Entrez votre nom">
+            <br/>
+            <label>No civique:</label>
+            <input type="text" id="CiviqueLu" placeholder="Entrez votre No. civique">
+            <br/>
+            <label>Rue:</label>
+            <input type="text" id="RueLu" placeholder="Entrez votre rue">
+            <br/>
+            <label>Ville:</label>
+            <input type="text" id="VilleLu" placeholder="Entrez votre ville">
+            <br/>
+            <label>Code postal:</label>
+            <input type="text" id="CodeLu" placeholder="Entrez votre code postal">
+
+            <h3>Nombre de billets</h3>
+            <h4>
+                <label>Adultes:</label>
+                <input type="text" id="AdultesLu" placeholder="0" readonly>
+                <input class="form-button" type="button" value="+" onclick="PlusAd()" size="2">
+                <input class="form-button" type="button" value="-" onclick="MoinsAd()" size="2">
+                <br/>
+                <label>Enfants 12ans et moins:</label>
+                <input type="text" id="EnfantsLu" placeholder="0" readonly>
+                <input class="form-button" type="button" value="+" onclick="PlusEn()" size="2">
+                <input class="form-button" type="button" value="-" onclick="MoinsEn()" size="2">
+            </h4>
+
+            <h3>Frais divers</h3>
+            <h4>
+                <input class="form-check" type="checkbox" id="CourrierLu" onclick="fonctCourrier()">
+                <label for="CourrierLu">Courrier recommandé</label>
+                <input class="form-check" type="checkbox" id="PaiementLu" onclick="fonctPai()">
+                <label for="PaiementLu">Paiement différé</label>
+            </h4>
+            <h4>
+                <label>Montant de la commande</label>
+                <input type="text" id="MontantLu" placeholder="0" readonly> $
+                <input class="form-btFin" type="button" value="Confirmer la commande de billets" onclick="traiterFormulaire()">
+            </h4>
+        </form>
+    </body>
+
+</html>

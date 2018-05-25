@@ -1,0 +1,91 @@
+/* CSS reset
+   --------- */
+
+html,
+body,
+img,
+p,
+h1,
+h2,
+h3,
+ul,
+li,
+figure {
+    margin: 0;
+    padding: 0;
+}
+        
+/* règles générales
+   ---------------- */
+        
+html {
+    font-family: Arial, sans-serif;
+    background-color: #888;
+}
+body {
+    width: 960px;
+    margin: 0 auto;
+    color: #555;
+    background-color: #fafafa;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}  
+::placeholder { 
+    color: #ccc; 
+}
+form{
+    padding: 10px 30px;
+    width: 650px;
+    margin: auto;
+}
+form h3{
+    text-transform: uppercase;
+    font-size: 13px;
+    margin: 25px 0 15px;
+    line-height: 25px;
+    border-bottom: 4px solid darkturquoise;
+    color: black;
+}
+form label{
+    line-height: 25px;
+    width: 100px;
+    display: inline-block;
+}
+form input{
+    width: 220px;
+    height: 30px;
+    color: darkgray;
+    background-color: white;
+    border: 1px solid darkgray;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+h4 label{
+    font-weight: normal;
+    width: 190px;
+}
+h4 .form-button{
+    background-color: darkturquoise;
+    color: white;
+    width: 30px;
+    cursor: pointer;
+}
+h4 .form-check{
+    width: 20px;
+    height: 15px;
+}
+h4 .form-btFin{
+    text-align: center;
+    background-color: darkturquoise;
+    color: white;
+    width: 100%;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+}
