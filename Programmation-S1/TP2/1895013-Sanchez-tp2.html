@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- Tp # 2, 
+NOM : Luz Angela Sanchez Gutierrez
+-->
+
+<html>
+    <head>
+        <title></title>
+
+        <script type="text/javascript">
+
+            /* variables globales (doivent être obligatoirement connues partout dans le programme) */
+            var tabTauxClic, tabNbClics, tabRevMensuel, tabMois;
+
+            tabTauxClic	= [.01, .02, .01, .02,.01, .02,.01, .02,.01, .02,.03, .02];
+            tabNbClics	= [1000, 2000, 1000, 2000, 1000, 2000, 1000, 2000, 1000, 2000, 3000, 4000];
+            tabRevMensuel = [];
+            tabMois		= ["janvier", "février", "mars", "avril", "mai","juin", "juillet",
+                           "août","septembre","octobre","novembre","décembre"];
+
+            function maximum(tab) {
+                // fonction qui accepte en entrée un tableau et qui retourne l'indice (le numéro)
+                // de l'élément maximal dans le tableau
+
+                var max, iMax;
+                max = tab[0];
+
+                for (var i = 1; i < tab.length; i++) {
+                    if (tab[i] > max) {
+                        max = tab[i];
+                        iMax = i;
+                    }
+                }
+                return iMax;
+            }
+
+            function somme(tab) {
+                // fonction appelée dans la fonction afficherStatistiques, qui accepte en entrée
+                // un tableau et qui retourne la somme des éléments du tableau
+
+                var somme = 0;
+                for (var i = 0; i < tab.length; i++) {
+                    somme = parseFloat(tab[i] + somme);
+                }
+                return somme;
+            }
+
+            // Calcul du revenu mensuel
+            for (var i = 0; i < tabMois.length; i++) {
+                tabRevMensuel[i] = tabTauxClic[i] * tabNbClics[i];
+            }
+
+            // Premier mois où le revenu mensuel est plus grand que 50$ 
+            function premierMois(tab) {
+                for (var i = 0; i < tabMois.length; i++) {
+                    if (tabRevMensuel[i] > 50) {
+                        var position = i;
+                        break;
+                    }
+                }
+                return position;
+            }
+
+            function afficherStatistiques() {
+                // fonction exécutée lors d'un clic sur le bouton Afficher les statistiques et
+                // qui affiche des statistiques relatives aux sites que vous avez conçus
+
+                // Somme pour calculer le nombre total de clics 
+                document.getElementById("lblTotalClics").innerHTML = somme(tabNbClics);
+
+                // Calcul du nombre moyen de clics 
+                document.getElementById("lblNbClicsMoyen").innerHTML = (somme(tabNbClics) / tabNbClics.length).toFixed(2);
+
+                // Somme pour calculer le revenu annuel 
+                document.getElementById("lblRevenuAnnuel").innerHTML = somme(tabRevMensuel).toFixed(2);
+
+                /* Appel de la fonction maximum pour déterminer l'indice du revenu mensuel record 
+                   Affichage du mois record */
+                var mois = maximum(tabRevMensuel);
+                document.getElementById("lblRevMensuelMax").innerHTML = tabMois[mois];
+
+                /* Appel de la fonction maximum pour déterminer l'indice du nombre de clics mensuel record 
+                   Affichage du mois record */
+                var moisClics = maximum(tabNbClics);
+                document.getElementById("lblNbClicsMax").innerHTML = tabMois[moisClics];
+
+                // Premier mois où le revenu mensuel est plus grand que 50$
+                var positMois = premierMois(tabRevMensuel);
+                document.getElementById("lblPremierMois").innerHTML = tabMois[positMois];
+            } 
+            // fin afficher statistiques
+
+        </script>
+    </head>
+    <body>
+        <h1>Vos revenus Web</h1>
+        <h3>Statistiques relatives aux sites que vous avez conçus</h3>
+        <form name="frm">
+            <table>
+                <tr>
+                    <td>Nombre total de clics</td>
+                    <td><label id="lblTotalClics">""</label></td>
+                </tr>
+                <tr>
+                    <td>Nombre moyen de clics</td>
+                    <td>
+                        <label id="lblNbClicsMoyen">""</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Revenu annuel</td>
+                    <td>
+                        <label id="lblRevenuAnnuel">""</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Mois où le revenu mensuel est maximal</td>
+                    <td>
+                        <label id="lblRevMensuelMax">""</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Mois où le nombre de clics est  maximal</td>
+                    <td>
+                        <label id="lblNbClicsMax">""</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Premier mois où le revenu mensuel a dépassé 50$</td>
+                    <td>
+                        <label id="lblPremierMois">""</label>
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+            <input type="button" value="Afficher les statistiques" onclick="afficherStatistiques()"><br><br>
+        </form>
+    </body>
+</html>
+
