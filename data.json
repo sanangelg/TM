@@ -14,8 +14,8 @@
         "acBt": "Mes Projets",
         "acTitre4": "Mes Projets",
         "acMenu1": "Web",
-        "acMenu2": "Design web",
-        "acMenu3": "Graphique Design",
+        "acMenu2": "Web Design",
+        "acMenu3": "Design Graphique",
         "acMenu4": "Vidéo",
         "acMenu5": "Jeux Vidéo // 3D",
         "prTitre": "+ 5 ANS DANS LA CONCEPTION ET LE DÉVELOPPEMENT DE SITES WEB",
@@ -73,10 +73,10 @@
             "info": "Adobe Animate"
           },
           {
-            "info": "Mobile Design"
+            "info": "Conception Mobile"
           },
           {
-            "info": "Graphic Design"
+            "info": "Design Graphique"
           },
           {
             "info": "Responsive Design"
