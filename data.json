@@ -2,7 +2,7 @@
   {
     "langue": "Francais",
     "abr": "FR",
-    "etiquettes": [
+    "etiquettes": 
       {
         "enteteA": "Projets",
         "enteteB": "Profil",
@@ -102,7 +102,7 @@
         "ctInfo5": "Courriel: sanangelg@gmail.com",
         "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
       }
-    ],
+    ,
     "categorias": [
       {
         "categorie": "web",
@@ -282,7 +282,7 @@
   {
     "langue": "English",
     "abr": "EN",
-    "etiquettes": [
+    "etiquettes": 
       {
         "enteteA": "Projets",
         "enteteB": "Profil",
@@ -382,7 +382,7 @@
         "ctInfo5": "Courriel: sanangelg@gmail.com",
         "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
       }
-    ],
+    ,
     "categorias": [
       {
         "categorie": "web",
@@ -562,7 +562,7 @@
   {
     "langue": "Español",
     "abr": "ES",
-    "etiquettes": [
+    "etiquettes": 
       {
         "enteteA": "Projets",
         "enteteB": "Profil",
@@ -662,7 +662,7 @@
         "ctInfo5": "Courriel: sanangelg@gmail.com",
         "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
       }
-    ],
+    ,
     "categorias": [
       {
         "categorie": "web",
