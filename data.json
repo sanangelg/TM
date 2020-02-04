@@ -48,7 +48,7 @@
           }
         ],
         "prSousTitre2": "Compétences",
-        "prCompetences1": "Design Web",
+        "prCompetences1": "Web Design",
         "prCompetences2": "HTML // CSS // Sass",
         "prCompetences3": "Js // jQuery",
         "prCompetences4": "Php",
@@ -71,9 +71,6 @@
           },
           {
             "info": "Adobe Animate"
-          },
-          {
-            "info": "Web Design"
           },
           {
             "info": "Mobile Design"
@@ -284,55 +281,55 @@
     "abr": "EN",
     "etiquettes": 
       {
-        "enteteA": "Projets",
-        "enteteB": "Profil",
-        "enteteC": "Démo",
+        "enteteA": "Projects",
+        "enteteB": "Profile",
+        "enteteC": "Demo",
         "enteteD": "Contact",
         "acTitre1": "It's me!",
         "acTitre2": "Explore my site",
-        "acTitre3": "Découvre mes projets et leur histoire derrière eux.",
-        "acBt": "Mes Projets",
-        "acTitre4": "Mes Projets",
+        "acTitre3": "Discover my projects and their history behind them.",
+        "acBt": "My Projects",
+        "acTitre4": "My Projects",
         "acMenu1": "Web",
-        "acMenu2": "Design web",
-        "acMenu3": "Graphique Design",
-        "acMenu4": "Vidéo",
-        "acMenu5": "Jeux Vidéo // 3D",
-        "prTitre": "+ 5 ANS DANS LA CONCEPTION ET LE DÉVELOPPEMENT DE SITES WEB",
-        "prSousTitre1": "Formation et Expérience",
+        "acMenu2": "Web Design",
+        "acMenu3": "Graphic Design",
+        "acMenu4": "Video",
+        "acMenu5": "Video Game // 3D",
+        "prTitre": "+ 5 YEARS IN THE DESIGN AND DEVELOPMENT OF WEBSITES",
+        "prSousTitre1": "Education and Experience",
         "prFormation": [
           {
             "date": "2018",
-            "nom": "Techniques d'intégration multimédia",
+            "nom": "Multimedia integration techniques",
             "lieu": "Collège de Maisonneuve"
           },
           {
             "date": "2014 - 2016",
-            "nom": "Graphiste et infographiste web",
+            "nom": "Graphic designer and web graphic designer",
             "lieu": "AD Media Inc."
           },
           {
             "date": "2014",
-            "nom": "Francisation",
-            "lieu": "Centre Antoine-Brossard"
+            "nom": "Francization",
+            "lieu": "Center Antoine-Brossard"
           },
           {
             "date": "2012 - 2013",
-            "nom": "Concepteur Web, Colombie",
+            "nom": "Web designer, Colombie",
             "lieu": "Price Water House Coopers ltda."
           },
           {
             "date": "2006 - 2009",
-            "nom": "DEC en design et communication graphique",
+            "nom": "-DEC- graphic design and communication",
             "lieu": "UNITEC, Colombie"
           }
         ],
-        "prSousTitre2": "Compétences",
-        "prCompetences1": "Design Web",
+        "prSousTitre2": "Skills",
+        "prCompetences1": "Web Design",
         "prCompetences2": "HTML // CSS // Sass",
         "prCompetences3": "Js // jQuery",
         "prCompetences4": "Php",
-        "prSousTitre3": "Plus",
+        "prSousTitre3": "More",
         "prPlus": [
           {
             "info": "Adobe Photoshop"
@@ -353,9 +350,6 @@
             "info": "Adobe Animate"
           },
           {
-            "info": "Web Design"
-          },
-          {
             "info": "Mobile Design"
           },
           {
@@ -374,13 +368,13 @@
             "info": "MySql"
           }
         ],
-        "ctTitre": "SALUT! C’EST ANGELA, J’HABITE À MTL - GRAPHISTE ET WEB DESIGNER",
+        "ctTitre": "HI! IT'S ANGELA, I LIVE AT MTL - GRAPHIC DESIGNER AND WEB DESIGNER",
         "ctInfo1": "Boulevard Pie-IX,",
         "ctInfo2": "Montréal,",
         "ctInfo3": "QC.",
         "ctInfo4": "Cell.: +1 (438) 396-6845",
-        "ctInfo5": "Courriel: sanangelg@gmail.com",
-        "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
+        "ctInfo5": "E-mail: sanangelg@gmail.com",
+        "ctInfo6": "If you would like to work with me, I would be happy to receive a short message."
       }
     ,
     "categorias": [
@@ -390,8 +384,8 @@
           {
             "id": 1,
             "nom": "Art Public de Montréal",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
@@ -413,8 +407,8 @@
           {
             "id": 2,
             "nom": "Festiver",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
@@ -436,8 +430,8 @@
           {
             "id": 3,
             "nom": "Norida Rodríguez // Toto Vega",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
@@ -464,8 +458,8 @@
           {
             "id": 1,
             "nom": "Cachaco Café",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
@@ -487,8 +481,8 @@
           {
             "id": 2,
             "nom": "Deco",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
@@ -511,9 +505,9 @@
         "projets": [
           {
             "id": 1,
-            "nom": "Compilation de dessins",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "nom": "Compilation of design",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
@@ -534,9 +528,9 @@
           },
           {
             "id": 2,
-            "nom": "Compilation de logos",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "nom": "Compilation of logos",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
@@ -564,55 +558,55 @@
     "abr": "ES",
     "etiquettes": 
       {
-        "enteteA": "Projets",
-        "enteteB": "Profil",
-        "enteteC": "Démo",
-        "enteteD": "Contact",
-        "acTitre1": "YO!",
-        "acTitre2": "Explore mon site",
-        "acTitre3": "Découvre mes projets et leur histoire derrière eux.",
-        "acBt": "Mes Projets",
-        "acTitre4": "Mes Projets",
+        "enteteA": "Proyectos",
+        "enteteB": "Perfil",
+        "enteteC": "Demo",
+        "enteteD": "Contacto",
+        "acTitre1": "Hola Hola!",
+        "acTitre2": "Explora mi sitio",
+        "acTitre3": "Conoce mis proyectos y su historia.",
+        "acBt": "Mis Proyectos",
+        "acTitre4": "Mis Proyectos",
         "acMenu1": "Web",
-        "acMenu2": "Design web",
-        "acMenu3": "Graphique Design",
-        "acMenu4": "Vidéo",
-        "acMenu5": "Jeux Vidéo // 3D",
-        "prTitre": "+ 5 ANS DANS LA CONCEPTION ET LE DÉVELOPPEMENT DE SITES WEB",
-        "prSousTitre1": "Formation et Expérience",
+        "acMenu2": "Diseño Web",
+        "acMenu3": "Diseño Gráfico",
+        "acMenu4": "Video",
+        "acMenu5": "Juego de Video // 3D",
+        "prTitre": "+ 5 AÑOS EN DISEÑO Y DESARROLLO DE SITIOS WEB",
+        "prSousTitre1": "Formación y Experiencia",
         "prFormation": [
           {
             "date": "2018",
-            "nom": "Techniques d'intégration multimédia",
+            "nom": "Tecnicas de integración multimedia",
             "lieu": "Collège de Maisonneuve"
           },
           {
             "date": "2014 - 2016",
-            "nom": "Graphiste et infographiste web",
+            "nom": "Diseñadora Web",
             "lieu": "AD Media Inc."
           },
           {
             "date": "2014",
-            "nom": "Francisation",
+            "nom": "Francisación",
             "lieu": "Centre Antoine-Brossard"
           },
           {
             "date": "2012 - 2013",
-            "nom": "Concepteur Web, Colombie",
+            "nom": "Diseñadora Web, Colombia",
             "lieu": "Price Water House Coopers ltda."
           },
           {
             "date": "2006 - 2009",
-            "nom": "DEC en design et communication graphique",
-            "lieu": "UNITEC, Colombie"
+            "nom": "DEC en diseño y comunicación gráfica",
+            "lieu": "UNITEC, Colombia"
           }
         ],
-        "prSousTitre2": "Compétences",
-        "prCompetences1": "Design Web",
+        "prSousTitre2": "Competencias",
+        "prCompetences1": "Diseño Web",
         "prCompetences2": "HTML // CSS // Sass",
         "prCompetences3": "Js // jQuery",
         "prCompetences4": "Php",
-        "prSousTitre3": "Plus",
+        "prSousTitre3": "Mas",
         "prPlus": [
           {
             "info": "Adobe Photoshop"
@@ -633,13 +627,13 @@
             "info": "Adobe Animate"
           },
           {
-            "info": "Web Design"
+            "info": "Diseño Web"
           },
           {
-            "info": "Mobile Design"
+            "info": "Diseño Móvil"
           },
           {
-            "info": "Graphic Design"
+            "info": "Diseño Gráfico"
           },
           {
             "info": "Responsive Design"
@@ -654,13 +648,13 @@
             "info": "MySql"
           }
         ],
-        "ctTitre": "SALUT! C’EST ANGELA, J’HABITE À MTL - GRAPHISTE ET WEB DESIGNER",
+        "ctTitre": "HOLA! SOY ANGELA, VIVO EN MTL - DISEÑADORA WEB",
         "ctInfo1": "Boulevard Pie-IX,",
         "ctInfo2": "Montréal,",
         "ctInfo3": "QC.",
-        "ctInfo4": "Cell.: +1 (438) 396-6845",
-        "ctInfo5": "Courriel: sanangelg@gmail.com",
-        "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
+        "ctInfo4": "Cel.: +1 (438) 396-6845",
+        "ctInfo5": "Correo: sanangelg@gmail.com",
+        "ctInfo6": "Si desea trabajar conmigo, me gustaría recibir un breve mensaje."
       }
     ,
     "categorias": [
@@ -670,8 +664,8 @@
           {
             "id": 1,
             "nom": "Art Public de Montréal",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
@@ -693,8 +687,8 @@
           {
             "id": 2,
             "nom": "Festiver",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
@@ -716,8 +710,8 @@
           {
             "id": 3,
             "nom": "Norida Rodríguez // Toto Vega",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
@@ -744,8 +738,8 @@
           {
             "id": 1,
             "nom": "Cachaco Café",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
@@ -767,8 +761,8 @@
           {
             "id": 2,
             "nom": "Deco",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
@@ -791,9 +785,9 @@
         "projets": [
           {
             "id": 1,
-            "nom": "Compilation de dessins",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "nom": "Compilación de diseño",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
@@ -814,9 +808,9 @@
           },
           {
             "id": 2,
-            "nom": "Compilation de logos",
-            "titreDetail": "Détail du projet",
-            "titreTech": "Technologie",
+            "nom": "Compilación de logos",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
