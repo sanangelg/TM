@@ -102,7 +102,7 @@
     ,
     "categorias": [
       {
-        "categorie": "web",
+        "categorie": "Web",
         "projets": [
           {
             "id": 1,
@@ -111,6 +111,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
@@ -134,6 +135,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
@@ -157,6 +159,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
@@ -176,7 +179,7 @@
         ]
       },
       {
-        "categorie": "designWeb",
+        "categorie": "Web Design",
         "projets": [
           {
             "id": 1,
@@ -185,6 +188,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
@@ -208,6 +212,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -224,7 +229,7 @@
         ]
       },
       {
-        "categorie": "graphiqueDesign",
+        "categorie": "Design Graphique",
         "projets": [
           {
             "id": 1,
@@ -233,6 +238,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
@@ -256,6 +262,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
@@ -379,13 +386,14 @@
     ,
     "categorias": [
       {
-        "categorie": "web",
+        "categorie": "Web",
         "projets": [
           {
             "id": 1,
             "nom": "Art Public de Montréal",
             "titreDetail": "Project details",
             "titreTech": "Technology",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
             "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
@@ -411,6 +419,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
@@ -434,6 +443,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
@@ -453,7 +463,7 @@
         ]
       },
       {
-        "categorie": "designWeb",
+        "categorie": "Web Design",
         "projets": [
           {
             "id": 1,
@@ -462,6 +472,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
@@ -485,6 +496,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -501,7 +513,7 @@
         ]
       },
       {
-        "categorie": "graphiqueDesign",
+        "categorie": "Graphic Design",
         "projets": [
           {
             "id": 1,
@@ -510,6 +522,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
@@ -533,6 +546,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
@@ -659,7 +673,7 @@
     ,
     "categorias": [
       {
-        "categorie": "web",
+        "categorie": "Web",
         "projets": [
           {
             "id": 1,
@@ -668,6 +682,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
@@ -691,6 +706,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
@@ -714,6 +730,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
             "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
@@ -733,7 +750,7 @@
         ]
       },
       {
-        "categorie": "designWeb",
+        "categorie": "Diseño Web",
         "projets": [
           {
             "id": 1,
@@ -742,6 +759,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
@@ -765,6 +783,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -781,7 +800,7 @@
         ]
       },
       {
-        "categorie": "graphiqueDesign",
+        "categorie": "Diseño Gráfico",
         "projets": [
           {
             "id": 1,
@@ -790,6 +809,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
@@ -813,6 +833,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
             "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
