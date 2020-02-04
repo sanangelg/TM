@@ -102,9 +102,567 @@
         "ctInfo5": "Courriel: sanangelg@gmail.com",
         "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
       }
+    ],
+    "categorias": [
+      {
+        "categorie": "web",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Art Public de Montréal",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Festiver",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "nom": "Norida Rodríguez // Toto Vega",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "designWeb",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Cachaco Café",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Deco",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "graphiqueDesign",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Compilation de dessins",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Compilation de logos",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
+    "langue": "English",
+    "abr": "EN",
+    "etiquettes": [
+      {
+        "enteteA": "Projets",
+        "enteteB": "Profil",
+        "enteteC": "Démo",
+        "enteteD": "Contact",
+        "acTitre1": "C'est moi!",
+        "acTitre2": "Explore mon site",
+        "acTitre3": "Découvre mes projets et leur histoire derrière eux.",
+        "acBt": "Mes Projets",
+        "acTitre4": "Mes Projets",
+        "acMenu1": "Web",
+        "acMenu2": "Design web",
+        "acMenu3": "Graphique Design",
+        "acMenu4": "Vidéo",
+        "acMenu5": "Jeux Vidéo // 3D",
+        "prTitre": "+ 5 ANS DANS LA CONCEPTION ET LE DÉVELOPPEMENT DE SITES WEB",
+        "prSousTitre1": "Formation et Expérience",
+        "prFormation": [
+          {
+            "date": "2018",
+            "nom": "Techniques d'intégration multimédia",
+            "lieu": "Collège de Maisonneuve"
+          },
+          {
+            "date": "2014 - 2016",
+            "nom": "Graphiste et infographiste web",
+            "lieu": "AD Media Inc."
+          },
+          {
+            "date": "2014",
+            "nom": "Francisation",
+            "lieu": "Centre Antoine-Brossard"
+          },
+          {
+            "date": "2012 - 2013",
+            "nom": "Concepteur Web, Colombie",
+            "lieu": "Price Water House Coopers ltda."
+          },
+          {
+            "date": "2006 - 2009",
+            "nom": "DEC en design et communication graphique",
+            "lieu": "UNITEC, Colombie"
+          }
+        ],
+        "prSousTitre2": "Compétences",
+        "prCompetences1": "Design Web",
+        "prCompetences2": "HTML // CSS // Sass",
+        "prCompetences3": "Js // jQuery",
+        "prCompetences4": "Php",
+        "prSousTitre3": "Plus",
+        "prPlus": [
+          {
+            "info": "Adobe Photoshop"
+          },
+          {
+            "info": "Adobe Ilustrator"
+          },
+          {
+            "info": "Adobe Fireworks"
+          },
+          {
+            "info": "Adobe Premiere Pro"
+          },
+          {
+            "info": "Adobe After Effects"
+          },
+          {
+            "info": "Adobe Animate"
+          },
+          {
+            "info": "Web Design"
+          },
+          {
+            "info": "Mobile Design"
+          },
+          {
+            "info": "Graphic Design"
+          },
+          {
+            "info": "Responsive Design"
+          },
+          {
+            "info": "WordPress"
+          },
+          {
+            "info": "Git"
+          },
+          {
+            "info": "MySql"
+          }
+        ],
+        "ctTitre": "SALUT! C’EST ANGELA, J’HABITE À MTL - GRAPHISTE ET WEB DESIGNER",
+        "ctInfo1": "Boulevard Pie-IX,",
+        "ctInfo2": "Montréal,",
+        "ctInfo3": "QC.",
+        "ctInfo4": "Cell.: +1 (438) 396-6845",
+        "ctInfo5": "Courriel: sanangelg@gmail.com",
+        "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
+      }
+    ],
+    "categorias": [
+      {
+        "categorie": "web",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Art Public de Montréal",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Festiver",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "nom": "Norida Rodríguez // Toto Vega",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "designWeb",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Cachaco Café",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Deco",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "graphiqueDesign",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Compilation de dessins",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Compilation de logos",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "langue": "Español",
+    "abr": "ES",
+    "etiquettes": [
+      {
+        "enteteA": "Projets",
+        "enteteB": "Profil",
+        "enteteC": "Démo",
+        "enteteD": "Contact",
+        "acTitre1": "C'est moi!",
+        "acTitre2": "Explore mon site",
+        "acTitre3": "Découvre mes projets et leur histoire derrière eux.",
+        "acBt": "Mes Projets",
+        "acTitre4": "Mes Projets",
+        "acMenu1": "Web",
+        "acMenu2": "Design web",
+        "acMenu3": "Graphique Design",
+        "acMenu4": "Vidéo",
+        "acMenu5": "Jeux Vidéo // 3D",
+        "prTitre": "+ 5 ANS DANS LA CONCEPTION ET LE DÉVELOPPEMENT DE SITES WEB",
+        "prSousTitre1": "Formation et Expérience",
+        "prFormation": [
+          {
+            "date": "2018",
+            "nom": "Techniques d'intégration multimédia",
+            "lieu": "Collège de Maisonneuve"
+          },
+          {
+            "date": "2014 - 2016",
+            "nom": "Graphiste et infographiste web",
+            "lieu": "AD Media Inc."
+          },
+          {
+            "date": "2014",
+            "nom": "Francisation",
+            "lieu": "Centre Antoine-Brossard"
+          },
+          {
+            "date": "2012 - 2013",
+            "nom": "Concepteur Web, Colombie",
+            "lieu": "Price Water House Coopers ltda."
+          },
+          {
+            "date": "2006 - 2009",
+            "nom": "DEC en design et communication graphique",
+            "lieu": "UNITEC, Colombie"
+          }
+        ],
+        "prSousTitre2": "Compétences",
+        "prCompetences1": "Design Web",
+        "prCompetences2": "HTML // CSS // Sass",
+        "prCompetences3": "Js // jQuery",
+        "prCompetences4": "Php",
+        "prSousTitre3": "Plus",
+        "prPlus": [
+          {
+            "info": "Adobe Photoshop"
+          },
+          {
+            "info": "Adobe Ilustrator"
+          },
+          {
+            "info": "Adobe Fireworks"
+          },
+          {
+            "info": "Adobe Premiere Pro"
+          },
+          {
+            "info": "Adobe After Effects"
+          },
+          {
+            "info": "Adobe Animate"
+          },
+          {
+            "info": "Web Design"
+          },
+          {
+            "info": "Mobile Design"
+          },
+          {
+            "info": "Graphic Design"
+          },
+          {
+            "info": "Responsive Design"
+          },
+          {
+            "info": "WordPress"
+          },
+          {
+            "info": "Git"
+          },
+          {
+            "info": "MySql"
+          }
+        ],
+        "ctTitre": "SALUT! C’EST ANGELA, J’HABITE À MTL - GRAPHISTE ET WEB DESIGNER",
+        "ctInfo1": "Boulevard Pie-IX,",
+        "ctInfo2": "Montréal,",
+        "ctInfo3": "QC.",
+        "ctInfo4": "Cell.: +1 (438) 396-6845",
+        "ctInfo5": "Courriel: sanangelg@gmail.com",
+        "ctInfo6": "Si vous souhaitez travailler avec moi, je serais heureux de recevoir un court message."
+      }
+    ],
     "categorias": [
       {
         "categorie": "web",
