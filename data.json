@@ -179,7 +179,7 @@
         ]
       },
       {
-        "categorie": "Web Design",
+        "categorie": "WebDesign",
         "projets": [
           {
             "id": 1,
@@ -212,7 +212,7 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "Thumbnail": "../../assets/projets/designWeb/DW-DecoThumb.jpg",
             "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -229,7 +229,7 @@
         ]
       },
       {
-        "categorie": "Design Graphique",
+        "categorie": "DesignGraphique",
         "projets": [
           {
             "id": 1,
@@ -463,7 +463,7 @@
         ]
       },
       {
-        "categorie": "Web Design",
+        "categorie": "WebDesign",
         "projets": [
           {
             "id": 1,
@@ -513,7 +513,7 @@
         ]
       },
       {
-        "categorie": "Graphic Design",
+        "categorie": "GraphicDesign",
         "projets": [
           {
             "id": 1,
@@ -750,7 +750,7 @@
         ]
       },
       {
-        "categorie": "Diseño Web",
+        "categorie": "DiseñoWeb",
         "projets": [
           {
             "id": 1,
@@ -800,7 +800,7 @@
         ]
       },
       {
-        "categorie": "Diseño Gráfico",
+        "categorie": "DiseñoGrafico",
         "projets": [
           {
             "id": 1,
