@@ -102,6 +102,176 @@
     ,
     "categorias": [
       {
+        "categorie": "Tous",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Art Public de Montréal",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Festiver",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "nom": "Norida Rodríguez // Toto Vega",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "nom": "Cachaco Café",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "nom": "Deco",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-DecoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "nom": "Compilation de dessins",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "nom": "Compilation de logos",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "categorie": "Web",
         "projets": [
           {
@@ -385,6 +555,176 @@
       }
     ,
     "categorias": [
+      {
+        "categorie": "All",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Art Public de Montréal",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Festiver",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "nom": "Norida Rodríguez // Toto Vega",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "nom": "Cachaco Café",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "nom": "Deco",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "nom": "Compilation of design",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "nom": "Compilation of logos",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      },
       {
         "categorie": "Web",
         "projets": [
@@ -672,6 +1012,176 @@
       }
     ,
     "categorias": [
+      {
+        "categorie": "Todos",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Art Public de Montréal",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nom": "Festiver",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "nom": "Norida Rodríguez // Toto Vega",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "nom": "Cachaco Café",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "nom": "Deco",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "nom": "Compilación de diseño",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "nom": "Compilación de logos",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "texto",
+            "descriptionTech": "texto",
+            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "imagenes": [
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+              },
+              {
+                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      },
       {
         "categorie": "Web",
         "projets": [
