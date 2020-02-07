@@ -124,7 +124,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -148,7 +148,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -172,7 +172,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           },
@@ -294,7 +294,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -318,7 +318,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -342,7 +342,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           }
@@ -578,7 +578,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -602,7 +602,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -626,7 +626,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           },
@@ -661,7 +661,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
             "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -748,7 +748,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -772,7 +772,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -796,7 +796,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           }
@@ -836,7 +836,7 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
             "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -1035,7 +1035,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -1059,7 +1059,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -1083,7 +1083,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           },
@@ -1118,7 +1118,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
             "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
@@ -1205,7 +1205,7 @@
                 "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -1229,7 +1229,7 @@
                 "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-FestiverMobile.jpg"
               }
             ]
           },
@@ -1253,7 +1253,7 @@
                 "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-NorTotMobile.jpg"
               }
             ]
           }
@@ -1293,7 +1293,7 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
             "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
