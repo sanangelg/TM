@@ -111,20 +111,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -135,20 +135,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -159,20 +159,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           },
@@ -183,20 +183,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -207,17 +207,17 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-DecoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           },
@@ -228,20 +228,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -252,20 +252,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
@@ -281,20 +281,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -305,20 +305,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -329,20 +329,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           }
@@ -358,20 +358,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -382,17 +382,17 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-DecoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-DecoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           }
@@ -408,20 +408,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -432,20 +432,20 @@
             "titreTech": "Technologie",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
@@ -563,22 +563,22 @@
             "nom": "Art Public de Montréal",
             "titreDetail": "Project details",
             "titreTech": "Technology",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -589,20 +589,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -613,20 +613,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           },
@@ -637,20 +637,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -661,17 +661,17 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           },
@@ -682,20 +682,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -706,20 +706,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
@@ -733,22 +733,22 @@
             "nom": "Art Public de Montréal",
             "titreDetail": "Project details",
             "titreTech": "Technology",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -759,20 +759,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -783,20 +783,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           }
@@ -812,20 +812,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -836,17 +836,17 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           }
@@ -862,20 +862,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -886,20 +886,20 @@
             "titreTech": "Technology",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
@@ -1022,20 +1022,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -1046,20 +1046,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -1070,20 +1070,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           },
@@ -1094,20 +1094,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -1118,17 +1118,17 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           },
@@ -1139,20 +1139,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -1163,20 +1163,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
@@ -1192,20 +1192,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-ArtPublicThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-ArtPublic.jpg",
+            "Thumbnail": "assets/projets/web/web-ArtPublicThumb.jpg",
+            "imageBanner": "assets/projets/web/web-ArtPublic.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop02.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-ArtPublicDesktop03.jpg"
+                "imagen": "assets/projets/web/web-ArtPublicDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-ArtPublicMobile.jpg"
+                "imagen": "assets/projets/web/web-web-ArtPublicMobile.jpg"
               }
             ]
           },
@@ -1216,20 +1216,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-FestiverThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-Festiver.jpg",
+            "Thumbnail": "assets/projets/web/web-FestiverThumb.jpg",
+            "imageBanner": "assets/projets/web/web-Festiver.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop02.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-FestiverDesktop03.jpg"
+                "imagen": "assets/projets/web/web-FestiverDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-FestiverMobile.jpg"
+                "imagen": "assets/projets/web/web-web-FestiverMobile.jpg"
               }
             ]
           },
@@ -1240,20 +1240,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/web/web-NorTotThumb.jpg",
-            "imageBanner": "../../assets/projets/web/web-NorTot.jpg",
+            "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
+            "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop02.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-NorTotDesktop03.jpg"
+                "imagen": "assets/projets/web/web-NorTotDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/web/web-web-NorTotMobile.jpg"
+                "imagen": "assets/projets/web/web-web-NorTotMobile.jpg"
               }
             ]
           }
@@ -1269,20 +1269,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Cachaco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Cachaco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoDesktop03.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-CachacoMobile.jpg"
+                "imagen": "assets/projets/designWeb/DW-CachacoMobile.jpg"
               }
             ]
           },
@@ -1293,17 +1293,17 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/designWeb/DW-CachacoThumb.jpg",
-            "imageBanner": "../../assets/projets/designWeb/DW-Deco.jpg",
+            "Thumbnail": "assets/projets/designWeb/DW-CachacoThumb.jpg",
+            "imageBanner": "assets/projets/designWeb/DW-Deco.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop02.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop02.jpg"
               },
               {
-                "imagen": "../../assets/projets/designWeb/DW-DecoDesktop03.jpg"
+                "imagen": "assets/projets/designWeb/DW-DecoDesktop03.jpg"
               }
             ]
           }
@@ -1319,20 +1319,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/GD.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-tecFlyer.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
+                "imagen": "assets/projets/graphiqueDesign/GD-vieBenjaFlyer.jpg"
               }
             ]
           },
@@ -1343,20 +1343,20 @@
             "titreTech": "Tecnología",
             "descriptionDetail": "texto",
             "descriptionTech": "texto",
-            "Thumbnail": "../../assets/projets/graphiqueDesign/logos/logosThumb.jpg",
-            "imageBanner": "../../assets/projets/graphiqueDesign/logos/logos.jpg",
+            "Thumbnail": "assets/projets/graphiqueDesign/logos/logosThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/logos/logos.jpg",
             "imagenes": [
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-chocoGourmet.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-LissyArquez.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Testa.jpg"
               },
               {
-                "imagen": "../../assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+                "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
           }
