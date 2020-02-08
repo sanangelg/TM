@@ -157,8 +157,8 @@
             "nom": "Norida Rodríguez // Toto Vega",
             "titreDetail": "Détail du projet",
             "titreTech": "Technologie",
-            "descriptionDetail": "Wordpress, Fireworks, Photoshop",
-            "descriptionTech": "Ces projets sont les portfolios personnels de deux acteurs colombiens. Le but est de publier les dernières actualités, la galerie photo de l'acteur, sa démo reel et sa carrière artistique. Administration du site Web.",
+            "descriptionDetail": "Ces projets sont les portfolios personnels de deux acteurs colombiens. Le but est de publier les dernières actualités, la galerie photo de l'acteur, sa démo reel et sa carrière artistique. Administration du site Web.",
+            "descriptionTech": "Wordpress, Fireworks, Photoshop",
             "Thumbnail": "assets/projets/web/web-NorTotThumb.jpg",
             "imageBanner": "assets/projets/web/web-NorTot.jpg",
             "imagenes": [
