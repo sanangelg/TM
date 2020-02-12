@@ -102,7 +102,7 @@
     ,
     "categorias": [
       {
-        "categorie": "Tous",
+        "categorie": "Tous", "catLabel": "Tous",
         "projets": [
           {
             "id": 1,
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "categorie": "Web",
+        "categorie": "Web", "catLabel": "Web",
         "projets": [
           {
             "id": 1,
@@ -349,7 +349,7 @@
         ]
       },
       {
-        "categorie": "WebDesign",
+        "categorie": "WebDesign", "catLabel": "Web Design",
         "projets": [
           {
             "id": 1,
@@ -399,7 +399,7 @@
         ]
       },
       {
-        "categorie": "DesignGraphique",
+        "categorie": "DesignGraphique", "catLabel": "Design Graphique",
         "projets": [
           {
             "id": 1,
@@ -556,7 +556,7 @@
     ,
     "categorias": [
       {
-        "categorie": "All",
+        "categorie": "Tous","catLabel": "All",
         "projets": [
           {
             "id": 1,
@@ -726,7 +726,7 @@
         ]
       },
       {
-        "categorie": "Web",
+        "categorie": "Web", "catLabel": "Web",
         "projets": [
           {
             "id": 1,
@@ -803,7 +803,7 @@
         ]
       },
       {
-        "categorie": "WebDesign",
+        "categorie": "WebDesign",  "catLabel": "Web Design",
         "projets": [
           {
             "id": 1,
@@ -853,7 +853,7 @@
         ]
       },
       {
-        "categorie": "GraphicDesign",
+        "categorie": "DesignGraphique", "catLabel": "Graphic Design",
         "projets": [
           {
             "id": 1,
@@ -1013,7 +1013,7 @@
     ,
     "categorias": [
       {
-        "categorie": "Todos",
+        "categorie": "Tous", "catLabel": "Todos",
         "projets": [
           {
             "id": 1,
@@ -1183,7 +1183,7 @@
         ]
       },
       {
-        "categorie": "Web",
+        "categorie": "Web", "catLabel": "Web",
         "projets": [
           {
             "id": 1,
@@ -1260,7 +1260,7 @@
         ]
       },
       {
-        "categorie": "DiseñoWeb",
+        "categorie": "WebDesign", "catLabel": "Diseño Web",
         "projets": [
           {
             "id": 1,
@@ -1310,7 +1310,7 @@
         ]
       },
       {
-        "categorie": "DiseñoGrafico",
+        "categorie": "DesignGraphique", "catLabel": "Diseño Gráfico",
         "projets": [
           {
             "id": 1,
