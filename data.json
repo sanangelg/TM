@@ -450,6 +450,27 @@
             ]
           }
         ]
+      },
+      {
+        "categorie": "Video", "catLabel": "Vidéo",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Demo Reel",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "",
+            "descriptionTech": "After Effects, Ilustrator",
+            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
+            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg",
+                "url": "https://www.youtube.com/embed/vmZ8bO_6N1k"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -545,7 +566,7 @@
             "info": "MySql"
           }
         ],
-        "ctTitre": "HI! IT'S ANGELA, I LIVE AT MTL - GRAPHIC DESIGNER AND WEB DESIGNER",
+        "ctTitre": "HI! I'M ANGELA, I LIVE IN MTL - GRAPHIC DESIGNER AND WEB DESIGNER",
         "ctInfo1": "Boulevard Pie-IX,",
         "ctInfo2": "Montréal,",
         "ctInfo3": "QC.",
