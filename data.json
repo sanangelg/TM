@@ -465,7 +465,8 @@
             "imageBanner": "assets/projets/video/video.jpg",
             "imagenes": [
               {
-                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4"
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/videoThumb.png"
               },
               {
                 "imagen": "assets/projets/video/AnimationLogo.mp4"
