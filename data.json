@@ -268,6 +268,30 @@
                 "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
+          },
+          {
+            "id": 8,
+            "nom": "Compilation vidéo",
+            "titreDetail": "Détail du projet",
+            "titreTech": "Technologie",
+            "descriptionDetail": "Collection de vidéos pour différents projets",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
+              }
+            ]
           }
         ]
       },
@@ -466,13 +490,15 @@
             "imagenes": [
               {
                 "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
-                "imagenThumb": "assets/projets/video/videoThumb.png"
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
               },
               {
-                "imagen": "assets/projets/video/AnimationLogo.mp4"
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
               },
               {
-                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4"
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
               }
             ]
           }
@@ -749,6 +775,30 @@
                 "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
+          },
+          {
+            "id": 8,
+            "nom": "Compilation video",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "Video collection for different projects.",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
+              }
+            ]
           }
         ]
       },
@@ -927,6 +977,35 @@
               },
               {
                 "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "Video", "catLabel": "Video",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Compilation of video",
+            "titreDetail": "Project details",
+            "titreTech": "Technology",
+            "descriptionDetail": "Videos collection for different projects.",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
               }
             ]
           }
@@ -1206,6 +1285,30 @@
                 "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
               }
             ]
+          },
+          {
+            "id": 8,
+            "nom": "Compilación de videos",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "Colección de videos para diferentes proyectos.",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
+              }
+            ]
           }
         ]
       },
@@ -1384,6 +1487,35 @@
               },
               {
                 "imagen": "assets/projets/graphiqueDesign/logos/logo-Transformados.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categorie": "Video", "catLabel": "Video",
+        "projets": [
+          {
+            "id": 1,
+            "nom": "Compilación de videos",
+            "titreDetail": "Detalle del Proyecto",
+            "titreTech": "Tecnología",
+            "descriptionDetail": "Colección de videos para diferentes proyectos.",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
+            "imagenes": [
+              {
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4",
+                "imagenThumb": "assets/projets/video/DemoReel-SanAngelThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4",
+                "imagenThumb": "assets/projets/video/AnimationLogoThumb.jpg"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4",
+                "imagenThumb": "assets/projets/video/CourtMetrage-MatisThumb.jpg"
               }
             ]
           }
