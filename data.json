@@ -456,17 +456,16 @@
         "projets": [
           {
             "id": 1,
-            "nom": "Demo Reel",
+            "nom": "Compilation vidéo",
             "titreDetail": "Détail du projet",
             "titreTech": "Technologie",
-            "descriptionDetail": "",
-            "descriptionTech": "After Effects, Ilustrator",
-            "Thumbnail": "assets/projets/graphiqueDesign/GDThumb.jpg",
-            "imageBanner": "assets/projets/graphiqueDesign/GD.jpg",
+            "descriptionDetail": "Collection de vidéos pour différents projets",
+            "descriptionTech": "After Effects, Ilustrator, Maya 3D",
+            "Thumbnail": "assets/projets/video/videoThumb.png",
+            "imageBanner": "assets/projets/video/video.jpg",
             "imagenes": [
               {
-                "imagen": "assets/projets/graphiqueDesign/GD-donVieDesktop.jpg",
-                "url": "https://www.youtube.com/embed/vmZ8bO_6N1k"
+                "imagen": "assets/projets/video/DemoReel-SanAngel.mp4"
               }
             ]
           }
