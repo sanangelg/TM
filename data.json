@@ -466,6 +466,12 @@
             "imagenes": [
               {
                 "imagen": "assets/projets/video/DemoReel-SanAngel.mp4"
+              },
+              {
+                "imagen": "assets/projets/video/AnimationLogo.mp4"
+              },
+              {
+                "imagen": "assets/projets/video/CourtMetrage-Matis.mp4"
               }
             ]
           }
