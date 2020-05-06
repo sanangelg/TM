@@ -22,7 +22,12 @@
         "prSousTitre1": "Formation et Expérience",
         "prFormation": [
           {
-            "date": "2018",
+            "date": "2020",
+            "nom": "Stagiaire intégration multimédia",
+            "lieu": "IRSST - Institut de recherche Robert-Sauvé en santé et en sécurité du travail"
+          },
+          {
+            "date": "2018 - 2020",
             "nom": "Techniques d'intégration multimédia",
             "lieu": "Collège de Maisonneuve"
           },
@@ -83,6 +88,9 @@
           },
           {
             "info": "WordPress"
+          },
+          {
+            "info": "DotNetNuke"
           },
           {
             "info": "Git"
@@ -529,7 +537,12 @@
         "prSousTitre1": "Education and Experience",
         "prFormation": [
           {
-            "date": "2018",
+            "date": "2020",
+            "nom": "Multimedia integration trainee",
+            "lieu": "IRSST - Institut de recherche Robert-Sauvé en santé et en sécurité du travail"
+          },
+          {
+            "date": "2018 - 2020",
             "nom": "Multimedia integration techniques",
             "lieu": "Collège de Maisonneuve"
           },
@@ -590,6 +603,9 @@
           },
           {
             "info": "WordPress"
+          },
+          {
+            "info": "DotNetNuke"
           },
           {
             "info": "Git"
@@ -1036,7 +1052,12 @@
         "prSousTitre1": "Formación y Experiencia",
         "prFormation": [
           {
-            "date": "2018",
+            "date": "2020",
+            "nom": "Practicante en integración multimedia",
+            "lieu": "IRSST - Institut de recherche Robert-Sauvé en santé et en sécurité du travail"
+          },
+          {
+            "date": "2018 - 2020",
             "nom": "Tecnicas de integración multimedia",
             "lieu": "Collège de Maisonneuve"
           },
@@ -1100,6 +1121,9 @@
           },
           {
             "info": "WordPress"
+          },
+          {
+            "info": "DotNetNuke"
           },
           {
             "info": "Git"
